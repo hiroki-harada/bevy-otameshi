@@ -1,0 +1,14 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: install rustc and set as default,
+    command: |
+      rustup install stable
+      rustup default stable
+      rustup completions bash > ~/.local/share/bash-completion/completions/rustup
+      ./setup-bevy.sh
+
+vscode:
+  extensions:
+    - rust-lang.rust-analyzer
