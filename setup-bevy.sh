@@ -2,8 +2,8 @@
 
 readonly projectDir="my_bevy_game"
 
-
-if [ -e $projectDir ]; then
+if [ ! -d $projectDir ]; then
+    # プロジェクトを新規作成
     cargo new $projectDir
 fi
 cd $projectDir
