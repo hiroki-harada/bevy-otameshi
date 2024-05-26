@@ -1,6 +1,7 @@
 # bevy-otameshi
 bevy をお試しで使うためのリポジトリ
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](gitpod.io/#https://github.com/hiroki-harada/bevy-otameshi)
 
 
 # directories and files
@@ -27,7 +28,7 @@ bevy をお試しで使うためのリポジトリ
 ## デスクトップ環境の起動
 gitpod を起動して環境を立ち上げると、画面右下に↓が表示される
 
-port 6080 の方を選択するとデスクトップ環境が開く(open browser だと別タブで開くので、主にそっちを使っている)
+port 6080 の方を選択するとデスクトップ環境が開く(open browser だと別タブでデスクトップ環境が開く、個人的にはそっちを使っている)
 
 ![alt text](images/how-to-use-01.png)
 
