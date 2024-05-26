@@ -1,7 +1,7 @@
 # bevy-otameshi
 bevy をお試しで使うためのリポジトリ
 
-
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#https://github.com/hiroki-harada/bevy-otameshi)
 
 # directories and files
 重要なやつだけ記載
